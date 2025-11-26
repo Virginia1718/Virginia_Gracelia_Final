@@ -1,0 +1,100 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "name": "Red Velvet",
+      "description": "Kue beludru merah.",
+      "price": 235000,
+      "imageUrl": "/red-velvet.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chocolate Lava",
+      "description": "Cokelat lezat.",
+      "price": 270000,
+      "imageUrl": "/chocolate-lava.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Lemon Tart Klasik",
+      "description": "Tart lemon segar dengan meringue manis.",
+      "price": 220000,
+      "imageUrl": "/Lemon-Tart.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Tiramisu Cake",
+      "description": "Memiliki tekstur lembut, perpaduan kopi, keju mascarpone, dan sedikit rasa pahit dari kakao.",
+      "price": 235000,
+      "imageUrl": "https://bakewithzoha.com/wp-content/uploads/2023/12/tiramisu-cheesecake-sliced-1-scaled.jpg"
+    },
+    {
+      "id": "5aa",
+      "name": "cheesecake",
+      "description": "Kue dengan cita rasa gurih dan manis.",
+      "price": 255000,
+      "imageUrl": "https://recipessmile.com/wp-content/uploads/2025/05/Creamy-Baked-Cheesecake.png"
+    }
+  ],
+  "customers": [
+    {
+      "id": "101",
+      "name": "Joko Susilo",
+      "email": "joko.susilo@example.com",
+      "city": "Jakarta"
+    },
+    {
+      "id": "102",
+      "name": "Siti Nurhaliza",
+      "email": "siti.n@example.com",
+      "city": "Bandung"
+    }
+  ],
+  "orders": [
+    {
+      "id": "501",
+      "customerId": 101,
+      "cakeName": "Red Velvet",
+      "quantity": 2,
+      "totalPrice": 500000,
+      "status": "Delivered",
+      "orderDate": "2025-11-20"
+    },
+    {
+      "id": "502",
+      "customerId": 102,
+      "cakeName": "Chocolate Lava",
+      "quantity": 1,
+      "totalPrice": 300000,
+      "status": "Pending",
+      "orderDate": "2025-11-23"
+    },
+    {
+      "id": "655f",
+      "customerId": "999",
+      "cakeName": "Red Velvet (1x), Chocolate Lava (1x)",
+      "quantity": 2,
+      "totalPrice": 505000,
+      "status": "Pending",
+      "orderDate": "2025-11-26"
+    },
+    {
+      "id": "84dd",
+      "customerId": "999",
+      "cakeName": "Chocolate Lava (1x)",
+      "quantity": 1,
+      "totalPrice": 270000,
+      "status": "Pending",
+      "orderDate": "2025-11-26"
+    },
+    {
+      "id": "a850",
+      "customerId": "999",
+      "cakeName": "Chocolate Lava (1x)",
+      "quantity": 1,
+      "totalPrice": 270000,
+      "status": "Pending",
+      "orderDate": "2025-11-26"
+    }
+  ]
+}
