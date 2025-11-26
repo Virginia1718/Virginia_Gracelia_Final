@@ -1,4 +1,4 @@
-// src/pages/CustomerMenuPage.jsx (Ganti dengan kode ini, pastikan Anda telah mengimpor CartModal dan addOrder)
+// src/pages/CustomerMenuPage.jsx
 
 import React, { useState, useEffect } from 'react';
 import { getCakes, addOrder } from '../API'; 
