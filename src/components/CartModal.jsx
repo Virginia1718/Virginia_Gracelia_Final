@@ -1,4 +1,4 @@
-// src/components/CartModal.jsx (Ganti dengan kode ini)
+// src/components/CartModal.jsx
 
 import React from 'react';
 import Button from './Button';
