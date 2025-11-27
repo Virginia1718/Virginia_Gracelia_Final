@@ -95,6 +95,15 @@
       "totalPrice": 270000,
       "status": "Pending",
       "orderDate": "2025-11-26"
+    },
+    {
+      "id": "c400",
+      "customerId": "999",
+      "cakeName": "Red Velvet (1x), Chocolate Lava (1x)",
+      "quantity": 2,
+      "totalPrice": 505000,
+      "status": "Pending",
+      "orderDate": "2025-11-26"
     }
   ]
 }

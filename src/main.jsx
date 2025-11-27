@@ -1,4 +1,4 @@
-// src/main.jsx (Ganti dengan kode ini)
+// src/main.jsx
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
